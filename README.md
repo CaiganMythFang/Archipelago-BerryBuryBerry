@@ -2,6 +2,8 @@
 
 This is the current progress on the APWorld for Berry Bury Berry. Basic logic and things are in place, but not tested too much yet. 
 
+Currently provided as is, open to forking or assistance with as I don't have the time or energy to continue this project at this moment. If nobody picks this up in a few months, I might pick it back up.
+
 # [Archipelago](https://archipelago.gg) ![Discord Shield](https://discordapp.com/api/guilds/731205301247803413/widget.png?style=shield) | [Install](https://github.com/ArchipelagoMW/Archipelago/releases)
 
 Archipelago provides a generic framework for developing multiworld capability for game randomizers. In all cases,
